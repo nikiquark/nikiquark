@@ -1,38 +1,39 @@
-<center>
-    <h1> Nikita Okhotnikov</h1>
-</center>
+<h1 align="center"> Nikita Okhotnikov👋</h1>
 
-### Hi there, I'm Nikita Okhotnikov 👋
+<h2 align="center">Student of the Faculty of Physics, NSU, Novosibirsk <br>
+    I am developing software for simulating wakefield acceleration in plasma</h2>
+    
+<h2 align="center">Skills</h2>
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+	<a href="https://github.com/topics/c" target="blank"><img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="c" width="30" height="30"/></a>
+	<a href="https://github.com/topics/cpp" target="blank"><img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="cpp" width="30" height="30"/></a>
+	<a href="https://github.com/topics/python" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="30" height="30"/></a>
+    <a href="https://github.com/topics/haskell" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" alt="sql" width="30" height="30"/></a>
+    <a href="https://github.com/topics/javascript" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="sql" width="30" height="30"/></a>
+</p>
 
-## I'm a Student, Scientist, Developer, and Teacher!!
+<h3 align="center">Web Development</h3>
+<p align="center">
+	<a href="https://github.com/topics/html" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/></a>
+	<a href="https://github.com/topics/css" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/></a>
+	<a href="https://github.com/topics/bootstrap" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/></a>
+    <a href="https://github.com/topics/nodejs" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="30" height="30"/></a>
+    <a href="https://github.com/topics/express" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="30" height="30"/></a>
+</p>
 
-- 🔭 Student of the Novosibirsk State University!
-- 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: Want to learn how to control my time
-- ⚡ Fun fact: I like to program and communicate
+<h3 align="center">Tools</h3>
+<p align="center">
+    <a href="https://github.com/topics/terminal" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="30" height="30"/></a>
+	<a href="https://github.com/topics/git" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/git/git-original.svg" alt="git" width="30" height="30"/></a>
+	<a href="https://github.com/topics/github" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/github/github-original.svg" alt="github" width="30" height="30"/></a>
+    <a href="https://github.com/topics/vscode" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="30" height="30"/></a>
+    <a href="https://github.com/topics/mysql" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/></a>
+	<a href="https://github.com/topics/mongodb" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Mongo DB" width="30" height="30"/></a>
+</p>
 
+<h2 align="center">:zap: GitHub Stats :zap:</h2>
+<p align="center"><img align="center" alt="nikiquark's GitHub Stats" src="https://readme-stats-kohl.vercel.app/api?username=nikiquark&show_icons=true&hide_border=true&hide_title=true" /></p>
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-
-<br />
-
-
-### :zap: GitHub Stats
-
-<img align="left" alt="nikiquark's GitHub Stats" src="https://readme-stats-kohl.vercel.app/api?username=nikiquark&show_icons=true&hide_border=true" />
+<h2 align="center">:zap: Top Languages Stats :zap:</h2>
+<p align="center"><img  src="https://readme-stats-kohl.vercel.app/api/top-langs/?username=nikiquark&hide_border=true&hide_title=true" alt="nikiquark's Top Languages" /></p>
