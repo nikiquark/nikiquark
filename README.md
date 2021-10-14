@@ -29,5 +29,5 @@
 
 ### :zap: GitHub Stats
 
- <img align="left" alt="nikiquark's GitHub Stats" src="https://readme-stats-kohl.vercel.app
+<img align="left" alt="nikiquark's GitHub Stats" src="https://readme-stats-kohl.vercel.app
 /api?username=nikiquark&show_icons=true&hide_border=true" />
