@@ -1,8 +1,42 @@
 <h1 align="center"> Nikita Okhotnikov👋</h1>
+<h2 align="center">
+	I graduated NSU, Physics of Plasma Department </br>
+    	Full-stack Web developer</br>
+	Senior Assistant at Budker Institute of Nuclear Physics
+</h2>
+<h2>I am currently working on:</h2>
+<ul>
+	<li>
+		<b>NSU:</b> Django web application for second year students at NSU</br>
+		Stack: Django, PostgreSQL, Bash, Nginx
+	</li>
+	<li>
+		<b>BINP:</b> Software for simulating wakefield acceleration in plasma</br>
+		Stack: Python, Numpy, Numba, Scipy
+	</li>
+	<li>
+		<b>Pet:</b> Super app for NSU dormitory </br>
+		Stack: Typescript, React, Nest.js, MySql
+	</li>
+</ul>
 
-<h2 align="center">Student of the Faculty of Physics, NSU, Novosibirsk <br>
-    I am developing software for simulating wakefield acceleration in plasma</h2>
-    
+<h2>Previous projects:</h2>
+<ul>
+	<li>
+		<b>R2 Robotics</b>: Proxy server between robot and frontend</br>
+		Stack: Typescript, Nest.js, Websocket
+	</li>
+	<li>
+		<b>R2 Robotics</b>: Localization of RFID tags</br>
+		Stack: C++17, Eigen
+	</li>
+	<li>
+		Many raspi & arduino projects</br>
+		A lot of pet robots projects
+	</li>
+</ul>
+
+
 <h2 align="center">Skills</h2>
 <h3 align="center">Programming Languages</h3>
 <p align="center">
